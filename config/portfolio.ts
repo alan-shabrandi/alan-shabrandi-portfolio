@@ -149,7 +149,7 @@ export const PORTFOLIO_DATA = {
   },
   experiences: [
     {
-      period: "March 2022 – Present",
+      period: "Mar 2022 – Jul 2026",
       role: "Senior FullStack Engineer (Backend Focus)",
       company: "Snap Drive",
       link: "https://snapdrive.cloud",
@@ -200,7 +200,7 @@ export const PORTFOLIO_DATA = {
       current: false,
     },
     {
-      period: "Aug 2018 – Mar 2020",
+      period: "Jul 2022 – Nov 2025",
       role: "Frontend Developer (ReactJS, NextJS)",
       company: "MCI (Hamrah Aval)",
       link: "https://mci.ir/",
